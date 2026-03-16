@@ -21,7 +21,7 @@ All editions are being tested on the following operating systems before official
 | Arch Linux | ✅ | ✅ | ✅ |
 | CachyOS | ✅ | ✅ | ✅ |
 | Gentoo Linux | ✅ | ✅ | ✅ |
-| Windows 10 Pro | ✅ | ✅ | ✅ |
+| Windows 10 Pro(EOL) | ✅ | ✅ | ✅ |
 | Windows 10 LTSC IOT | ✅ | ✅ | ✅ |
 | Windows 11 Pro | ✅ | ✅ | ✅ |
 | MacOS Tahoe 26.3.1 | ✅ | ✅ | ✅ |
