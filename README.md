@@ -16,7 +16,7 @@ All editions are being tested on the following operating systems before official
 
 ℹ️ All releases are being tested on the latest versions of the listed operating systems and on real hardware (We are not using VMs for testing)
 
-ℹ️ Apart from manual testing each of the edition on all listed operating systems,we are running an automated stress testing script on each operating system to ensure stability. The automated process includes spamming world generations with different seeds and world layouts,mass-deleting maps,loading each generated world with different rendering settings and checking for performance regressions or errors in the minecraft logs during the process.
+ℹ️ Apart from manually testing each edition on all listed operating systems, we also run an automated stress-testing script on each platform to ensure stability. This process includes repeatedly generating worlds with different seeds and terrain layouts, mass-deleting maps, loading each generated world under different rendering settings, and checking for performance regressions or log errors.
 
 | System | Stable Edition | Vulkan Edition | 1.12.2 LTS |
 |--------------|---------------|--------------|---------------|
