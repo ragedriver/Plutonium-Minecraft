@@ -11,8 +11,11 @@ Always download the Optimization Pack from the official Modrinth website,this mo
 # Systems compatibility
 Optimization Pack supports Linux,Windows,MacOS and FreeBSD.
 All editions are being tested on the following operating systems before officially releasing them:
+
 ⚠️ The rolling release edition is only tested under Arch Linux against critical bugs
+
 ℹ️ All releases are being tested on the latest versions of the listed operating systems and on real hardware (We are not using VMs for testing)
+
 | System | Stable Edition | Vulkan Edition | 1.12.2 LTS |
 |--------------|---------------|--------------|---------------|
 | Arch Linux | ✅ | ✅ | ✅ |
