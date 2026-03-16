@@ -8,13 +8,25 @@ Always download the Optimization Pack from the official Modrinth website,this mo
 
 [Download Optimization Pack for Minecraft[Modrinth]](https://modrinth.com/modpack/op-mc/versions)
 
+# Systems compatibility
+Optimization Pack supports Linux,Windows,MacOS and FreeBSD.
+All editions are being tested on the following operating systems before officially releasing them:
+⚠️ The rolling release edition is only tested under Arch Linux against critical bugs
+ℹ️ All releases are being tested on the latest versions of the listed operating systems and on real hardware (We are not using VMs for testing)
+| System | Stable Edition | Vulkan Edition | 1.12.2 LTS |
+|--------------|---------------|--------------|---------------|
+| Arch Linux | ✅ | ✅ | ✅ |
+| CachyOS | ✅ | ✅ | ✅ |
+| Gentoo Linux | ✅ | ✅ | ✅ |
+| Windows 10 Pro | ✅ | ✅ | ✅ |
+| Windows 10 LTSC IOT | ✅ | ✅ | ✅ |
+| Windows 11 Pro | ✅ | ✅ | ✅ |
+| MacOS Tahoe 26.3.1 | ✅ | ✅ | ✅ |
+
+
 # Benchmarks
 
 Coming soon!
- 
-# Compatibility
- The optimization pack supports all kind of PCs,from low end to high end.
- Works on Linux,Windows & MacOS (And other platforms that supports minecraft)
  
 # Notes :
  1.For alpha & beta builds,check out the project on CurseForge or download the builds from this repo in "Unlocked Profile" folder!
