@@ -29,8 +29,8 @@ All editions are being tested on the following operating systems before official
 | MacOS Tahoe 26.3.1 | ✅ | ✅ | ✅ |
 
 **Hardware used for testing :**
-1. RTX 4090 + AMD Ryzen 9950X (Arch Linux,CachyOS,Gentoo Linux + Latest NVIDIA driver and packages from each distro repo)
-2. RTX 3060Ti + i9-9900K (Windows 10 Pro End-Of-Life, Windows 10 LTSC IOT, Windows 11 Pro)
+1. RTX 4090 + AMD Ryzen 9950X + 96GB RAM 6800Mhz DDR5(Arch Linux,CachyOS,Gentoo Linux + Latest NVIDIA driver and packages from each distro repo)
+2. RTX 3060Ti + i9-9900K + 32GB RAM 3200Mhz DDR4(Windows 10 Pro End-Of-Life, Windows 10 LTSC IOT, Windows 11 Pro)
 3. Mac Mini M4 (MacOS Tahoe 26.3.1)
 
 ℹ️ Each operating system is stored on a different drive on each PC (Multiboot) and all apps/packages/security&os features are being updated manually before testing and releasing a new version of Optimization Pack
