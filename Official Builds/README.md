@@ -1,4 +1,4 @@
-# Explaining the flavours
+# 📦Explaining the flavours
 ## Stable
 Choose Optimization Pack stable if you want a stable,reliable,performant and compatible gameplay experience with other mods. Performance may vary depending on your operating system and hardware.
 
