@@ -1,4 +1,4 @@
-<img src="https://github.com/ragedriver/Minecraft-Optimization-Pack/blob/main/GithubFolder/Assets/plutonium5.png?raw=true"/>
+<img src="https://github.com/ragedriver/Plutonium-Minecraft/blob/main/GithubFolder/Assets/plutonium5.png?raw=true"/>
 
 # Plutonium Modpack :
 Plutonium is a Minecraft modpack focused on maximizing performance, fixing bugs, and improving stability to deliver the best possible Minecraft experience.
@@ -43,7 +43,7 @@ Coming soon!
 # Performance Tweaks :
 Visit the Plutonium Wiki to get the best performance and optimizations for your minecraft and operating system.
 
-[Click here to access the Plutonium Wiki!](https://github.com/ragedriver/Minecraft-Optimization-Pack/wiki)
+[Click here to access the Plutonium Wiki!](https://github.com/ragedriver/Plutonium-Minecraft/wiki)
 
 
  
