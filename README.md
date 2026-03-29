@@ -1,4 +1,4 @@
-<img src="https://github.com/ragedriver/Minecraft-Optimization-Pack/blob/main/GithubFolder/Assets/op4.png?raw=true"/>
+<img src="https://github.com/ragedriver/Minecraft-Optimization-Pack/blob/main/GithubFolder/Assets/plutonium5.png?raw=true"/>
 
 # Optimization Pack :
 Optimization Pack is a Minecraft modpack focused on maximizing performance, fixing bugs, and improving stability to deliver the best possible Minecraft experience.
