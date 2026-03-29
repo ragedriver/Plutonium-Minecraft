@@ -1,15 +1,15 @@
 <img src="https://github.com/ragedriver/Minecraft-Optimization-Pack/blob/main/GithubFolder/Assets/plutonium5.png?raw=true"/>
 
-# Optimization Pack :
-Optimization Pack is a Minecraft modpack focused on maximizing performance, fixing bugs, and improving stability to deliver the best possible Minecraft experience.
+# Plutonium Modpack :
+Plutonium is a Minecraft modpack focused on maximizing performance, fixing bugs, and improving stability to deliver the best possible Minecraft experience.
 
-# Download Optimization Pack :
-Always download the Optimization Pack from the official Modrinth website,this modpack is 100% free,do not pay for it and make sure to report sellers of this modpack!
+# Download Plutonium :
+Always download the Plutonium from the official Modrinth website,this modpack is 100% free,do not pay for it and make sure to report sellers of this modpack!
 
-[Download Optimization Pack for Minecraft[Modrinth]](https://modrinth.com/modpack/op-mc/versions)
+[Download Plutonium Modpack for Minecraft[Modrinth]](https://modrinth.com/modpack/op-mc/versions)
 
 # Systems compatibility
-Optimization Pack supports Linux,Windows,MacOS and FreeBSD.
+Plutonium supports Linux,Windows,MacOS and FreeBSD.
 All editions are being tested on the following operating systems before officially releasing them:
 
 ⚠️ The rolling release edition is only tested under Arch Linux against critical bugs
@@ -33,7 +33,7 @@ All editions are being tested on the following operating systems before official
 2. RTX 3060Ti + i9-9900K + 32GB RAM 3200Mhz DDR4(Windows 10 Pro End-Of-Life, Windows 10 LTSC IOT, Windows 11 Pro)
 3. Mac Mini M4 (MacOS Tahoe 26.3.1)
 
-ℹ️ Each operating system is stored on a different drive on each PC (Multiboot) and all apps/packages/security&os features are being updated manually before testing and releasing a new version of Optimization Pack
+ℹ️ Each operating system is stored on a different drive on each PC (Multiboot) and all apps/packages/security&os features are being updated manually before testing and releasing a new version of Plutonium
 
 
 # Benchmarks
@@ -41,9 +41,9 @@ All editions are being tested on the following operating systems before official
 Coming soon!
  
 # Performance Tweaks :
-Visit the Optimization Pack Wiki to get the best performance and optimizations for your minecraft and operating system.
+Visit the Plutonium Wiki to get the best performance and optimizations for your minecraft and operating system.
 
-[Click here to get redirected to the OP Wiki](https://github.com/ragedriver/Minecraft-Optimization-Pack/wiki)
+[Click here to access the Plutonium Wiki!](https://github.com/ragedriver/Minecraft-Optimization-Pack/wiki)
 
 
  
