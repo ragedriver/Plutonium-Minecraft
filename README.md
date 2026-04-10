@@ -26,7 +26,7 @@ All editions are being tested on the following operating systems before official
 | Windows 10 Pro (EOL) | ✅ | ✅ | ✅ |
 | Windows 10 LTSC IOT | ✅ | ✅ | ✅ |
 | Windows 11 Pro | ✅ | ✅ | ✅ |
-| MacOS Tahoe 26.4 | ✅ | ✅ | ✅ |
+| MacOS Tahoe 26.4.1 | ✅ | ✅ | ✅ |
 
 **Hardware used for testing :**
 1. RTX 4090 + AMD Ryzen 9950X + 96GB RAM 6800Mhz DDR5(Arch Linux,CachyOS,Gentoo Linux + Latest NVIDIA driver and packages from each distro repo)
