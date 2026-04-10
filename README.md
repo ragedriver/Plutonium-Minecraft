@@ -1,14 +1,14 @@
 <img src="https://github.com/ragedriver/Plutonium-Minecraft/blob/main/GithubFolder/Assets/plutonium5.png?raw=true"/>
 
-# Plutonium Modpack :
+# 🚀 Plutonium Modpack :
 Plutonium is a Minecraft modpack focused on maximizing performance, fixing bugs, and improving stability to deliver the best possible Minecraft experience.
 
-# Download Plutonium :
+# 🟩 Download Plutonium :
 Always download the Plutonium from the official Modrinth website,this modpack is 100% free,do not pay for it and make sure to report sellers of this modpack!
 
 [Download Plutonium Modpack for Minecraft[Modrinth]](https://modrinth.com/modpack/op-mc/versions)
 
-# Systems compatibility
+# ✔️ Systems compatibility
 Plutonium supports Linux,Windows,MacOS and FreeBSD.
 All editions are being tested on the following operating systems before officially releasing them:
 
@@ -42,6 +42,8 @@ Coming soon!
  
 # Performance Tweaks :
 Visit the Plutonium Wiki to get the best performance and optimizations for your minecraft and operating system.
+
+ℹ️ Starting with Plutonium 5.1.0, config is pre-optimized for performance.
 
 [Click here to access the Plutonium Wiki!](https://github.com/ragedriver/Plutonium-Minecraft/wiki)
 
