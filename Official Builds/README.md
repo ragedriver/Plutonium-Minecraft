@@ -1,4 +1,5 @@
 # 📦Explaining the flavours
+ℹ️ All builds from our github repo are fully unlocked
 ## Stable
 Choose Optimization Pack – Stable for a reliable, well-tested, and highly compatible experience.
 This edition prioritizes stability, performance, and broad mod compatibility, making it ideal for long-term gameplay and general use.
